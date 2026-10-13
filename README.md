@@ -6,7 +6,7 @@ A 40-minute Evals 101 workshop covering software testing, AI output evaluation, 
 
 Open [index.html](index.html) in a browser. The 14-slide presentation includes a clickable table of contents, collapsible Q&A, interactive examples, and source citations. Use the arrow keys or navigation buttons to move between slides.
 
-The presentation is self-contained and works without a build step or external runtime dependencies.
+The presentation includes a custom Evals explained theme with a light/dark toggle that remembers your preference. It is self-contained and works without a build step or external runtime dependencies.
 
 ## Workshop materials
 
